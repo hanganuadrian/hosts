@@ -1,3 +1,5 @@
+# Blocklist for Xiaomi / MIUI
+# ===========================
 127.0.0.1 a.stat.xiaomi.com
 127.0.0.1 abtest.mistat.intl.xiaomi.com
 127.0.0.1 abtest.mistat.xiaomi.com
