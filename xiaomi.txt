@@ -159,3 +159,5 @@
 127.0.0.1 zx.game.xiaomi.com
 127.0.0.1 stat.xiaomi.com
 127.0.0.1 update.intl.miui.com
+127.0.0.1 shopapi.io.mi.com
+127.0.0.1 ypsupport.kefu.mi.com
