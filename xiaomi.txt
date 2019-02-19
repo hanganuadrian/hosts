@@ -7,7 +7,7 @@
 127.0.0.1 ad.xiaomi.com
 127.0.0.1 ad1.xiaomi.com
 127.0.0.1 adv.sec.miui.com
-127.0.0.1 api.account.xiaomi.com
+# 127.0.0.1 api.account.xiaomi.com
 127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 api.admob.xiaomi.com
 127.0.0.1 api.chat.xiaomi.net
