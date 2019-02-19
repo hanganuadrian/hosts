@@ -161,3 +161,12 @@
 127.0.0.1 update.intl.miui.com
 127.0.0.1 shopapi.io.mi.com
 127.0.0.1 ypsupport.kefu.mi.com
+127.0.0.1 skdconfig.ad.intl.xiaomi.com
+127.0.0.1 home.mi.com
+127.0.0.1 tp.hd.mi.com
+127.0.0.1 api.m.mi.com
+127.0.0.1 api.jr.mi.com
+127.0.0.1 act.account.xiaomi.com
+127.0.0.1 cnbj1.fds.api.xiaomi.com
+127.0.0.1 cdn.awsusor0.fds.api.mi-img.com
+127.0.0.1 api-watch.huami.com
