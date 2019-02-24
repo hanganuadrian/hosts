@@ -168,5 +168,4 @@
 127.0.0.1 api.jr.mi.com
 127.0.0.1 act.account.xiaomi.com
 127.0.0.1 cnbj1.fds.api.xiaomi.com
-127.0.0.1 cdn.awsusor0.fds.api.mi-img.com
 127.0.0.1 api-watch.huami.com
