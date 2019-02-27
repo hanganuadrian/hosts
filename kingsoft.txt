@@ -1,0 +1,17 @@
+# Blocklist for Kingsoft / WPS
+# ============================
+127.0.0.1 http://ec2-52-43-249-196.us-west-2.compute.amazonaws.com
+127.0.0.1 http://ec2-34-213-133-234.us-west-2.compute.amazonaws.com
+127.0.0.1 ec2-34-213-238-222.us-west-2.compute.amazonaws.com
+127.0.0.1 http://ec2-52-89-212-137.us-west-2.compute.amazonaws.com
+127.0.0.1 http://ec2-54-191-41-159.us-west-2.compute.amazonaws.com
+127.0.0.1 http://ec2-54-68-129-70.us-west-2.compute.amazonaws.com
+127.0.0.1 ec2-54-149-125-87.us-west-2.compute.amazonaws.com
+127.0.0.1 http://ec2-54-187-93-72.us-west-2.compute.amazonaws.com
+127.0.0.1 http://ec2-52-220-226-146.ap-southeast-1.compute.amazonaws.com
+127.0.0.1 http://map2.hwcdn.net
+127.0.0.1 http://home.wps.cn
+127.0.0.1 http://zone.kingsoft.jp
+127.0.0.1 http://home.office.wps.com
+127.0.0.1 http://officecontent.wps.com
+127.0.0.1 http://kdl1.cache.wps.com
